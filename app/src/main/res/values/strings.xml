@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="cities">
+        <item>Chandigarh</item>
+        <item>Lucknow</item>
+
+    </string-array>
+    <string-array name="services">
+        <item>beauty and fitness</item>
+        <item>carpentry</item>
+        <item>computer</item>
+        <item>electrical</item>
+        <item>homepainting</item>
+        <item>house keeping</item>
+        <item>laundry</item>
+        <item>pest control</item>
+        <item>spiritual</item>
+        <item>plumbing</item>
+    </string-array>
+</resources>
